@@ -8,7 +8,7 @@ let jsonDatabase = [
     "website": "hockney.com",
     "fontcolor": "#ffffff",
     "backcolor": "#e49217",
-    "picture_url" : "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQQ1a468uwCyKX8mDPH5ZTD4mc6qHIXqMF_pQL9TXZjKh0x2aAA0eyntTifpM1jD-5gzxZ6137oWgpiLPM"
+    "picture_url" : "https://jo2313.github.io/Create_your_first_website/David.webp"
   },
   {
     "title": "We Two Boys Together Clinging",
